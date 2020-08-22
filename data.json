@@ -1,0 +1,40 @@
+{"hardcores": [
+	{
+		"players": [
+			"Joshua",
+			"Alex",
+			"Sam",
+			"Ben",
+			"Kevin",
+			"Emmit",
+			"Mechanic"
+		],
+		"deaths": [
+			{"player": "Sam", "cause": ["creeper"]},
+			{"player": "Ben", "cause": ["creeper"]},
+			{"player": "Kevin", "cause": ["phantom", "fall"]},
+			{"player": "Emmit", "cause": ["fall"]},
+			{"player": "Alex", "cause": ["creeper"]},
+			{"player": "Mechanic", "cause": ["tnt"]},
+			{"player": "Joshua", "cause": ["tnt"]}
+		]
+	},
+	
+	{
+		"players": [
+			"ItsYaBoiSchnozmo",
+			"Kevin",
+			"Sam",
+			"Joshua",
+			"Anson",
+			"Alex"
+		],
+		"deaths": [
+			{"player": "ItsYaBoiSchnozmo", "cause": ["creeper"]},
+			{"player": "Kevin", "cause": ["lava"]},
+			{"player": "Sam", "cause": ["creeper"]},
+			{"player": "Joshua", "cause": ["lava"]},
+			{"player": "Anson", "cause": ["lava"]}
+		]
+	}
+]}
