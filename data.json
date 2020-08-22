@@ -36,5 +36,51 @@
 			{"player": "Joshua", "cause": ["lava"]},
 			{"player": "Anson", "cause": ["lava"]}
 		]
+	},
+	
+	{
+		"players": [
+			"Kevin",
+			"Sam",
+			"Alex",
+			"Diamond"
+		],
+		"deaths": [
+			{"player": "Kevin", "cause": ["creeper"]},
+			{"player": "Sam", "cause": ["creeper"]},
+			{"player": "Alex", "cause": ["vindicator"]},
+			{"player": "Diamond", "cause": ["vex"]}
+		]
+	},
+	
+	{
+		"players": [
+			"Sam",
+			"Michuu",
+			"Alex"
+		],
+		"deaths": [
+			{"player": "Sam", "cause": ["creeper"]},
+			{"player": "Michuu", "cause": ["suffocation"]},
+			{"player": "Alex", "cause": ["burn"]}
+		]
+	},
+	
+	{
+		"players": [
+			"Sam",
+			"Seal",
+			"Diamond",
+			"Konrad",
+			"Googie",
+			"Alex"
+		],
+		"deaths": [
+			{"player": "Sam", "cause": ["creeper"]},
+			{"player": "Diamond", "cause": ["witherskeleton"]},
+			{"player": "Konrad", "cause": ["vindicator"]},
+			{"player": "Googie", "cause": ["vindicator"]},
+			{"player": "Alex", "cause": ["endermite", "void"]}
+		]
 	}
 ]}
