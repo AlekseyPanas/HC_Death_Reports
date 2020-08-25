@@ -1,0 +1,23 @@
+Last Survivor:  
+Be the last person alive in a Hardcore
+
+Dragon Slayer: 
+Defeat the Ender Dragon in a Hardcore
+
+Wither's Bane: 
+Defeat the Wither in a Hardcore
+
+Raid Defender: 
+Successfully defend against an entire raid without dying
+
+Veteran: 
+Participate in at least 5 Hardcores
+
+Seasoned Survivor: 
+Be the last person alive in at least 3 Hardcores
+
+Clickbait: 
+Be the first to die in at least 5 Hardcores
+
+Advanced: 
+Acquire every minecraft advancement for the current game version in a Hardcore

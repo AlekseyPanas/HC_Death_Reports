@@ -82,5 +82,19 @@
 			{"player": "Googie", "cause": ["vindicator"]},
 			{"player": "Alex", "cause": ["endermite", "void"]}
 		]
+	},
+
+	{
+		"players": [
+			"Sam",
+			"Seal",
+			"Diamond",
+			"Alex",
+			"Omar"
+		],
+		"deaths": [
+			{"player": "Sam", "cause": ["magmacube"]},
+			{"player": "Alex", "cause": ["fall", "lava"]}
+		]
 	}
 ]}
