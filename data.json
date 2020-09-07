@@ -94,7 +94,8 @@
 		],
 		"deaths": [
 			{"player": "Sam", "cause": ["magmacube"]},
-			{"player": "Alex", "cause": ["fall", "lava"]}
+			{"player": "Alex", "cause": ["fall", "lava"]},
+			{"player": "Seal", "cause": ["magmacube"]}
 		]
 	}
 ]}
