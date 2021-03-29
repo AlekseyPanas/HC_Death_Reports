@@ -97,5 +97,19 @@
 			{"player": "Alex", "cause": ["fall", "lava"]},
 			{"player": "Seal", "cause": ["magmacube"]}
 		]
+	}, 
+	
+	{
+		"players": [
+			"Sam",
+			"Seal",
+			"Diamond",
+			"Alex",
+			"Konrad",
+			"Andy"
+		],
+		"deaths": [
+		
+		]
 	}
 ]}

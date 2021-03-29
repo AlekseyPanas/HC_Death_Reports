@@ -55,7 +55,8 @@ player_images = {"Sam": pygame.image.load("player_images/sam.png"),
                  "Alex": pygame.image.load("player_images/alex.png"),
                  "Omar": pygame.image.load("player_images/omar.png"),
                  "Googie": pygame.image.load("player_images/googie.png"),
-                 "Diamond": pygame.image.load("player_images/diamond.png")}
+                 "Diamond": pygame.image.load("player_images/diamond.png"),
+				 "Andy": pygame.image.load("player_images/andy.png")}
 
 death_images = {"fall": pygame.image.load("death_images/fall.png"),
                 "creeper": pygame.image.load("death_images/creeper.png"),
