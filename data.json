@@ -109,7 +109,8 @@
 			"Andy"
 		],
 		"deaths": [
-		
+			{"player": "Seal", "cause": ["creeper"]},
+			{"player": "Konrad", "cause": ["creeper"]}
 		]
 	}
 ]}
