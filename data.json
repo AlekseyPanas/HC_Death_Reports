@@ -111,7 +111,7 @@
 		"deaths": [
 			{"player": "Seal", "cause": ["creeper"]},
 			{"player": "Konrad", "cause": ["creeper"]},
-			{"player": "Alex", "cause": ["pearl"]}
+			{"player": "Alex", "cause": ["blaze", "pearl"]}
 		]
 	}
 ]}
