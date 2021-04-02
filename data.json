@@ -110,7 +110,8 @@
 		],
 		"deaths": [
 			{"player": "Seal", "cause": ["creeper"]},
-			{"player": "Konrad", "cause": ["creeper"]}
+			{"player": "Konrad", "cause": ["creeper"]},
+			{"player": "Alex", "cause": ["pearl"]}
 		]
 	}
 ]}
