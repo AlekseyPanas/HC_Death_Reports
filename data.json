@@ -34,7 +34,8 @@
 			{"player": "Kevin", "cause": ["lava"]},
 			{"player": "Sam", "cause": ["creeper"]},
 			{"player": "Joshua", "cause": ["lava"]},
-			{"player": "Anson", "cause": ["lava"]}
+			{"player": "Anson", "cause": ["lava"]},
+			{"player": "Alex", "cause": ["creeper"]}
 		]
 	},
 	
@@ -111,7 +112,8 @@
 		"deaths": [
 			{"player": "Seal", "cause": ["creeper"]},
 			{"player": "Konrad", "cause": ["creeper"]},
-			{"player": "Alex", "cause": ["blaze", "pearl"]}
+			{"player": "Alex", "cause": ["blaze", "pearl"]},
+			{"player": "Sam", "cause": ["skeleton"]}
 		]
 	}
 ]}

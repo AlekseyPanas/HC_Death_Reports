@@ -72,7 +72,8 @@ death_images = {"fall": pygame.image.load("death_images/fall.png"),
                 "endermite": pygame.image.load("death_images/endermite.png"),
                 "magmacube": pygame.image.load("death_images/magmacube.png"),
 				"pearl": pygame.image.load("death_images/pearl.png"),
-				"blaze": pygame.image.load("death_images/blaze.png")}
+				"blaze": pygame.image.load("death_images/blaze.png"),
+				"skeleton": pygame.image.load("death_images/skeleton.png")}
 
 space_per_player = WIDTH / player_qnt
 
