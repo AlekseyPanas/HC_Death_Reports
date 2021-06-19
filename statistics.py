@@ -42,14 +42,13 @@ prog = pygame.image.load("stats/progress.png")
 
 
 screen.fill((0, 0, 0))
-
-for idx in range(len(death_type)):
-    text = pygame.font.SysFont("Arial", 32, bold=True).render(death_type[idx], False, (255, 255, 255))
-    text2 = pygame.font.SysFont("Arial", 26).render(str(round(death_percent[idx] * 100, 2)) + "%", False, (255, 255, 255))
+for idx, i in enumerate(sorted(final_list, key=lambda x: x[1], reverse=True)):
+    text = pygame.font.SysFont("Arial", 32, bold=True).render(i[0] + " (" + str(i[1]) + ")", False, (255, 255, 255))
+    text2 = pygame.font.SysFont("Arial", 26).render(str(round(i[2] * 100, 2)) + "%", False, (255, 255, 255))
     screen.blit(stonebricks, (0, 200 + (idx * 100)))
     screen.blit(prog_bg, (20, 250 + (idx * 100)))
     screen.blit(text, text.get_rect(center=(300, 235 + (idx * 100))))
-    screen.blit(pygame.transform.scale(prog, (int(death_percent[idx] * 585), 28)), (26, 250 + (idx * 100)))
+    screen.blit(pygame.transform.scale(prog, (int(i[2] * 585), 28)), (26, 250 + (idx * 100)))
     screen.blit(text2, (610, 250 + (idx * 100)))
 
 screen.blit(topbar, (0, 0))
