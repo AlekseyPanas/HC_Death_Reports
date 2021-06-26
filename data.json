@@ -115,5 +115,20 @@
 			{"player": "Alex", "cause": ["blaze", "pearl"]},
 			{"player": "Sam", "cause": ["skeleton"]}
 		]
+	},
+	
+	{
+		"players": [
+			"Sam",
+			"Seal",
+			"Diamond",
+			"Alex",
+			"Googie"
+		],
+		"deaths": [
+			{"player": "Seal", "cause": ["drowned"]},
+			{"player": "Googie", "cause": ["enderman"]},
+			{"player": "Alex", "cause": ["drown"]}
+		]
 	}
 ]}
