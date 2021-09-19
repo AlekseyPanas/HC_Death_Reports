@@ -113,7 +113,8 @@
 			{"player": "Seal", "cause": ["creeper"]},
 			{"player": "Konrad", "cause": ["creeper"]},
 			{"player": "Alex", "cause": ["blaze", "pearl"]},
-			{"player": "Sam", "cause": ["skeleton"]}
+			{"player": "Sam", "cause": ["skeleton"]},
+			{"player": "Andy", "cause": ["drown"]}
 		]
 	},
 	
@@ -128,7 +129,23 @@
 		"deaths": [
 			{"player": "Seal", "cause": ["drowned"]},
 			{"player": "Googie", "cause": ["enderman"]},
-			{"player": "Alex", "cause": ["drown"]}
+			{"player": "Alex", "cause": ["drown"]},
+			{"player": "Sam", "cause": ["void"]},
+			{"player": "Diamond", "cause": ["void"]}
+		]
+	},
+	
+	{
+		"players": [
+			"Sam",
+			"Seal",
+			"Diamond",
+			"Alex",
+			"Googie"
+		],
+		"deaths": [
+			{"player": "Googie", "cause": ["lava", "burn"]},
+			{"player": "Sam", "cause": ["lava"]}
 		]
 	}
 ]}
