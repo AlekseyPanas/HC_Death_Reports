@@ -147,5 +147,21 @@
 			{"player": "Googie", "cause": ["lava", "burn"]},
 			{"player": "Sam", "cause": ["lava"]}
 		]
+	},
+
+	{
+		"players": [
+			"Sam",
+			"Seal",
+			"Andy",
+			"Alex",
+			"Googie",
+			"Konrad"
+		],
+		"deaths": [
+			{"player": "Andy", "cause": ["creeper"]},
+			{"player": "Sam", "cause": ["fall"]},
+			{"player": "Konrad", "cause": ["enderman"]}
+		]
 	}
 ]}
