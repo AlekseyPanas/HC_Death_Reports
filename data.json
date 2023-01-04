@@ -163,5 +163,15 @@
 			{"player": "Sam", "cause": ["fall"]},
 			{"player": "Konrad", "cause": ["enderman"]}
 		]
+	},
+	
+	{
+		"players": [
+			"Diamond",
+			"Patrick",
+			"Alex",
+			"Googie"
+		],
+		"deaths": []
 	}
 ]}
